@@ -1,0 +1,52 @@
+.container{
+	background-color: orange;
+	text-align: center;
+
+}
+
+h2{
+	color: white;
+}
+
+.background{
+	
+	height: 100px;
+	width: 20%;
+  	background-color: blue;
+
+}
+
+
+.red{
+	color :red;
+}
+.white{
+	color : white;
+	font-weight: bold;
+	font-size: 20px
+}
+.gray{
+	color : LemonChiffon4;	
+	background-color : gray;
+}
+footer{
+	color : lightblue;
+}
+
+.green{
+	color: green;
+	
+}
+p{
+	color:black;
+}
+
+.blue{
+
+	background-color: DodgerBlue;
+
+}
+
+.black{
+	&copy;color: black;
+}
