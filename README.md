@@ -2,4 +2,4 @@
 ---
 
 ### Universidade de São Paulo
-### Instituto de Ciências Matemáticas e de Computação
+#### Instituto de Ciências Matemáticas e de Computação
